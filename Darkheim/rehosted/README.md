@@ -2,5 +2,8 @@
 
 # Accreditation:
 
-- AutoFuel by aedenthorn 
+- AutoFuel by aedenthorn
     - https://www.nexusmods.com/valheim/mods/159
+
+- Craft from Containers by aedenthorn
+    - https://www.nexusmods.com/valheim/mods/40
