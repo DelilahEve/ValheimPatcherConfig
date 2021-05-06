@@ -1,0 +1,51 @@
+{
+    "BepInExUrl": "https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1000/",
+    "configFilesUrl": "",
+    "mods": [
+        {
+            "makeFolder": true,
+            "folderName": "ConfigurationManager",
+            "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.3/BepInEx.ConfigurationManager_v16.3.zip"
+        },
+        {
+            "makeFolder": true,
+            "folderName": "EpicLoot",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/EpicLoot/0.7.7/"
+        },
+        {
+            "makeFolder": true,
+            "folderName": "LootMultiplier",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/castix/LootMultiplier/1.0.8/"
+        },
+        {
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/abearcodes/SimpleRecycling/0.0.13/"
+        },
+        {
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/AdvizeReupload/PlantEverything/1.4.3/"
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Tekla/AutoRepair/5.4.903/"
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": ""
+        },
+        {
+            "downloadUrl": ""
+        }
+    ]
+}
