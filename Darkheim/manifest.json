@@ -1,6 +1,6 @@
 {
     "BepInExUrl": "https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1000/",
-    "configFilesUrl": "",
+    "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/config/darkheim_config.zip",
     "mods": [
         {
             "makeFolder": true,
