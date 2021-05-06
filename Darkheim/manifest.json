@@ -6,133 +6,155 @@
             "makeFolder": true,
             "name": "ConfigurationManager",
             "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.3/BepInEx.ConfigurationManager_v16.3.zip",
-            "nexusId": 740
+            "nexusId": 740,
+            "zipStructure": "BepInEx\\plugins"
         },
         {
             "makeFolder": true,
             "name": "EpicLoot",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/EpicLoot/0.7.7/",
-            "nexusId": 387
+            "nexusId": 387,
+            "zipStructure": "files"
         },
         {
             "makeFolder": true,
             "name": "LootMultiplier",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/castix/LootMultiplier/1.0.8/",
-            "nexusId": 28
+            "nexusId": 28,
+            "zipStructure": "plugins\\LootMultiplier"
         },
         {
             "makeFolder": false,
             "name": "SimpleRecycling",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/abearcodes/SimpleRecycling/0.0.13/",
-            "nexusId": 205
+            "nexusId": 205,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "PlantEverything",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/AdvizeReupload/PlantEverything/1.4.3/",
-            "nexusId": 1042
+            "nexusId": 1042,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "AutoFuel",
             "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/Auto%20Fuel-159-0-9-1-1619628345.zip",
-            "nexusId": 159
+            "nexusId": 159,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "AutoRepair",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Tekla/AutoRepair/5.4.903/",
-            "nexusId": 721
+            "nexusId": 721,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "BiggerItemStack",
             "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/BiggerItemStack-9-0-1-2-0-1613647828.zip",
-            "nexusId": 9
+            "nexusId": 9,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "ComfortTweaks",
             "downloadUrl": "",
-            "nexusId": 427
+            "nexusId": 427,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "CraftFromContainers",
             "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/Craft%20From%20Containers-40-2-1-3-1617707258.zip",
-            "nexusId": 40
+            "nexusId": 40,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "CreatureLevelLootControl",
             "downloadUrl": "",
-            "nexusId": 495
+            "nexusId": 495,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "EquipmentAndQuickSlots",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/2.0.5/",
-            "nexusId": 92
+            "nexusId": 92,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "ExtendedItemDataFramework",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/ExtendedItemDataFramework/1.0.0/",
-            "nexusId": 281
+            "nexusId": 281,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "Gizmo",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Rolo/Gizmo/1.0.0/",
-            "nexusId": 1117
+            "nexusId": 1117,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "MoreSlots",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Fang86/MoreSlots/1.1.7/",
-            "nexusId": 103
+            "nexusId": 103,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "NorseNoHugin",
             "downloadUrl": "",
-            "nexusId": 444
+            "nexusId": 444,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "PlacementUnlocked",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Menthus/Placement_Unlocked/1.0.0/",
-            "nexusId": 399
+            "nexusId": 399,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "SkipIntro",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/purpledxd/SkipIntro/1.0.1/",
-            "nexusId": 208
+            "nexusId": 208,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "QuickStack",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/damnsneaker/QuickStack/0.6.6/",
-            "nexusId": 29
+            "nexusId": 29,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "SkToolboxValheim",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Skrip/SkToolbox/1.10.1/",
-            "nexusId": 8
+            "nexusId": 8,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "TorchesEternal",
             "downloadUrl": "",
-            "nexusId": 945
+            "nexusId": 945,
+            "zipStructure": ""
         },
         {
             "makeFolder": false,
             "name": "DropThat",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/ASharpPen/Drop_That/1.8.1/",
-            "nexusId": 221
+            "nexusId": 221,
+            "zipStructure": ""
         }
     ]
 }
