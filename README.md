@@ -1,2 +1,3 @@
-# ValheimPatcherConfig
-Config file hosting for Valheim Patcher
+# Valheim Patcher Config
+
+Config files for Valheim Patcher are hosted here.
