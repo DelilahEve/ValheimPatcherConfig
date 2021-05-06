@@ -49,7 +49,7 @@
             "name": "AutoRepair",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Tekla/AutoRepair/5.4.903/",
             "nexusId": 721,
-            "zipStructure": ""
+            "zipStructure": "plugins"
         },
         {
             "makeFolder": false,
