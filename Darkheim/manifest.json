@@ -61,7 +61,7 @@
         {
             "makeFolder": false,
             "name": "ComfortTweaks",
-            "downloadUrl": "",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Smoothbrain/ComfortTweaks/2.1.0/",
             "nexusId": 427,
             "zipStructure": ""
         },
@@ -75,7 +75,7 @@
         {
             "makeFolder": false,
             "name": "CreatureLevelLootControl",
-            "downloadUrl": "",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Smoothbrain/CreatureLevelAndLootControl/3.9.6/",
             "nexusId": 495,
             "zipStructure": ""
         },
@@ -145,7 +145,7 @@
         {
             "makeFolder": false,
             "name": "TorchesEternal",
-            "downloadUrl": "",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Xenofell/TorchesEternal/0.2.0/",
             "nexusId": 945,
             "zipStructure": ""
         },
