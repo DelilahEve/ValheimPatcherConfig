@@ -17,13 +17,6 @@
             "zipStructure": "files"
         },
         {
-            "makeFolder": true,
-            "name": "LootMultiplier",
-            "downloadUrl": "https://valheim.thunderstore.io/package/download/castix/LootMultiplier/1.0.8/",
-            "nexusId": 28,
-            "zipStructure": "plugins\\LootMultiplier"
-        },
-        {
             "makeFolder": false,
             "name": "SimpleRecycling",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/abearcodes/SimpleRecycling/0.0.13/",
