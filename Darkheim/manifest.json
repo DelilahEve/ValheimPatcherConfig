@@ -148,6 +148,13 @@
             "downloadUrl": "https://valheim.thunderstore.io/package/download/ASharpPen/Drop_That/1.8.1/",
             "nexusId": 221,
             "zipStructure": ""
+        },
+        {
+            "makeFolder": false,
+            "name": "BetterTrader",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Menthus/Better_Trader/2.0.0/",
+            "nexusId": 433,
+            "zipStructure": ""
         }
     ]
 }
