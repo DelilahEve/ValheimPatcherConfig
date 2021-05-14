@@ -70,7 +70,7 @@
         },
         {
             "makeFolder": false,
-            "name": "CreatureLevelLootControl",
+            "name": "CreatureLevelAndLootControl",
             "package": "Smoothbrain",
             "downloadUrl": "",
             "zipStructure": ""
