@@ -49,13 +49,6 @@
         },
         {
             "makeFolder": false,
-            "name": "BiggerItemStack",
-            "package": "",
-            "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/BiggerItemStack-9-0-1-2-0-1613647828.zip",
-            "zipStructure": ""
-        },
-        {
-            "makeFolder": false,
             "name": "ComfortTweaks",
             "package": "Smoothbrain",
             "downloadUrl": "",
@@ -128,13 +121,6 @@
             "makeFolder": false,
             "name": "TorchesEternal",
             "package": "Xenofell",
-            "downloadUrl": "",
-            "zipStructure": ""
-        },
-        {
-            "makeFolder": false,
-            "name": "Drop_That",
-            "package": "ASharpPen",
             "downloadUrl": "",
             "zipStructure": ""
         },

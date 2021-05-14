@@ -46,13 +46,6 @@
         },
         {
             "makeFolder": false,
-            "name": "BiggerItemStack",
-            "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/BiggerItemStack-9-0-1-2-0-1613647828.zip",
-            "nexusId": 9,
-            "zipStructure": ""
-        },
-        {
-            "makeFolder": false,
             "name": "ComfortTweaks",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Smoothbrain/ComfortTweaks/2.1.0/",
             "nexusId": 427,
@@ -140,13 +133,6 @@
             "name": "TorchesEternal",
             "downloadUrl": "https://valheim.thunderstore.io/package/download/Xenofell/TorchesEternal/0.2.0/",
             "nexusId": 945,
-            "zipStructure": ""
-        },
-        {
-            "makeFolder": false,
-            "name": "DropThat",
-            "downloadUrl": "https://valheim.thunderstore.io/package/download/ASharpPen/Drop_That/1.8.1/",
-            "nexusId": 221,
             "zipStructure": ""
         },
         {
