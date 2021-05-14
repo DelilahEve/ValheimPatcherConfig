@@ -59,7 +59,7 @@
             "name": "ComfortTweaks",
             "package": "Smoothbrain",
             "downloadUrl": "",
-            "zipStructure": ""
+            "zipStructure": "plugins"
         },
         {
             "makeFolder": false,
