@@ -91,13 +91,6 @@
         },
         {
             "makeFolder": false,
-            "name": "Placement_Unlocked",
-            "package": "Menthus",
-            "downloadUrl": "",
-            "zipStructure": ""
-        },
-        {
-            "makeFolder": false,
             "name": "SkipIntro",
             "package": "purpledxd",
             "downloadUrl": "",
