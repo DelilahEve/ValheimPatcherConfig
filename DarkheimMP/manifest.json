@@ -1,0 +1,180 @@
+{
+    "BepInEx": {
+        "package": "denikson",
+        "name": "BepInExPack_Valheim"
+    },
+    "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/config/darkheim_config.zip",
+    "mods": [
+        {
+            "makeFolder": true,
+            "name": "ConfigurationManager",
+            "package": "",
+            "downloadUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v16.3/BepInEx.ConfigurationManager_v16.3.zip",
+            "zipStructure": "BepInEx\\plugins",
+            "optional": true,
+            "install": "client"
+        },
+        {
+            "makeFolder": true,
+            "name": "EpicLoot",
+            "package": "RandyKnapp",
+            "downloadUrl": "",
+            "zipStructure": "files",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "SimpleRecycling",
+            "package": "abearcodes",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "PlantEverything",
+            "package": "AdvizeReupload",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "AutoFuel",
+            "package": "",
+            "downloadUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/rehosted/Auto%20Fuel-159-0-9-1-1619628345.zip",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "AutoRepair",
+            "package": "Tekla",
+            "downloadUrl": "",
+            "zipStructure": "plugins",
+            "optional": false,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "ComfortTweaks",
+            "package": "Smoothbrain",
+            "downloadUrl": "",
+            "zipStructure": "plugins",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "Craft_From_Containers_by_aedenthorn",
+            "package": "frenchiveruti",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "CreatureLevelAndLootControl",
+            "package": "Smoothbrain",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "EquipmentAndQuickSlots",
+            "package": "RandyKnapp",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "Gizmo",
+            "package": "Rolo",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": true,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "MoreSlots",
+            "package": "Fang86",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "SkipIntro",
+            "package": "purpledxd",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": true,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "QuickStack",
+            "package": "damnsneaker",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "TorchesEternal",
+            "package": "Xenofell",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": true,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "Better_Trader",
+            "package": "Menthus",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "client"
+        },
+        {
+            "makeFolder": false,
+            "name": "ValheimNetworkOptimizer",
+            "package": "TripleSteel",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "VChat",
+            "package": "ItsKaa",
+            "downloadUrl": "",
+            "zipStructure": "",
+            "optional": false,
+            "install": "both"
+        },
+        {
+            "makeFolder": false,
+            "name": "QuickConnect",
+            "package": "bdew",
+            "downloadUrl": "",
+            "zipStructure": "plugins",
+            "optional": false,
+            "install": "client"
+        }
+    ]
+}
