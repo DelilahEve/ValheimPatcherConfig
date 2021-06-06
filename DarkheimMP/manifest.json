@@ -3,7 +3,7 @@
         "package": "denikson",
         "name": "BepInExPack_Valheim"
     },
-    "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/Darkheim/config/darkheim_config.zip",
+    "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/DarkheimMP/darkheim_config.zip",
     "mods": [
         {
             "makeFolder": true,
