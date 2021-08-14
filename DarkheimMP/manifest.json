@@ -35,7 +35,7 @@
         {
             "makeFolder": false,
             "name": "PlantEverything",
-            "package": "AdvizeReupload",
+            "package": "Advize",
             "downloadUrl": "",
             "zipStructure": "",
             "optional": false,
