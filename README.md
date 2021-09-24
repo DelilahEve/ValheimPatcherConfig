@@ -65,3 +65,8 @@ Key | Type | Purpose
     ]
 }
 ```
+###### Config Zip:
+
+A config zip file can contain config files to be placed in the plugins folder, or the config folder. This is done by having 2 root folders in the zip, one `plugins` and the other `config`, with each containing the appropriate files to be distributed.
+
+Including a `.dll` in this zip is bad practice. At the least, check that the mod author allows redistribution before you add a `.dll` to this zip. Ideally, do not add any `.dll` files.
