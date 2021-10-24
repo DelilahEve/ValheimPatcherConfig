@@ -1,1 +1,102 @@
-{"mods":[{"name":"SkToolbox","package":"Skrip","downloadUrl":"https://valheim.thunderstore.io/package/download/Skrip/SkToolbox/1.10.5/"},{"name":"AutoRepair","package":"Tekla","downloadUrl":"https://valheim.thunderstore.io/package/download/Tekla/AutoRepair/5.4.1602/"},{"name":"CreatureLevelAndLootControl","package":"Smoothbrain","downloadUrl":"https://valheim.thunderstore.io/package/download/Smoothbrain/CreatureLevelAndLootControl/4.4.3/"},{"name":"EpicLoot","package":"RandyKnapp","downloadUrl":"https://valheim.thunderstore.io/package/download/RandyKnapp/EpicLoot/0.8.7/"},{"name":"SimpleRecycling","package":"abearcodes","downloadUrl":"https://valheim.thunderstore.io/package/download/abearcodes/SimpleRecycling/0.0.13/"},{"name":"PlantEverything","package":"Advize","downloadUrl":"https://valheim.thunderstore.io/package/download/Advize/PlantEverything/1.8.4/"},{"name":"EquipmentAndQuickSlots","package":"RandyKnapp","downloadUrl":"https://valheim.thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/2.0.14/"},{"name":"TorchesEternal","package":"Xenofell","downloadUrl":"https://valheim.thunderstore.io/package/download/Xenofell/TorchesEternal/0.2.0/"},{"name":"NoRaid","package":"MystroDev","downloadUrl":"https://valheim.thunderstore.io/package/download/MystroDev/NoRaid/1.0.0/"},{"name":"CraftingWithContainers","package":"abearcodes","downloadUrl":"https://valheim.thunderstore.io/package/download/abearcodes/CraftingWithContainers/1.0.14/"},{"name":"TrashItems","package":"virtuaCode","downloadUrl":"https://valheim.thunderstore.io/package/download/virtuaCode/TrashItems/1.2.4/"},{"name":"BiggerBoatMapExploreRadius","package":"nearbear","downloadUrl":"https://valheim.thunderstore.io/package/download/nearbear/BiggerBoatMapExploreRadius/1.0.3/"},{"name":"MultiCraft","package":"MaxiMods","downloadUrl":"https://valheim.thunderstore.io/package/download/MaxiMods/MultiCraft/0.2.7/"},{"name":"Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc","package":"rin_jugatla","downloadUrl":"https://valheim.thunderstore.io/package/download/rin_jugatla/Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc/1.6.2/"},{"name":"Better_Trader","package":"Menthus","downloadUrl":"https://valheim.thunderstore.io/package/download/Menthus/Better_Trader/2.0.4/"},{"name":"MassFarming","package":"Xeio","downloadUrl":"https://valheim.thunderstore.io/package/download/Xeio/MassFarming/1.0.1/"},{"name":"Better_Accuracy","package":"Hedrymas","downloadUrl":"https://valheim.thunderstore.io/package/download/Hedrymas/Better_Accuracy/1.0.3/"},{"name":"ComfortTweaks","package":"Smoothbrain","downloadUrl":"https://valheim.thunderstore.io/package/download/Smoothbrain/ComfortTweaks/2.7.5/"},{"name":"ChaseMods_JumpAltersFallingDamage","package":"chase000","downloadUrl":"https://valheim.thunderstore.io/package/download/chase000/ChaseMods_JumpAltersFallingDamage/1.1.1/"},{"name":"BeehiveUtilities","package":"Smallo","downloadUrl":"https://valheim.thunderstore.io/package/download/Smallo/BeehiveUtilities/1.1.0/"}],"configFilesUrl":"https://ovd.app:7226/public/config.zip","name":null,"enabled":true}
+{
+    "mods": [
+        {
+            "name": "SkToolbox",
+            "package": "Skrip",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Skrip/SkToolbox/1.10.5/"
+        },
+        {
+            "name": "AutoRepair",
+            "package": "Tekla",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Tekla/AutoRepair/5.4.1602/"
+        },
+        {
+            "name": "CreatureLevelAndLootControl",
+            "package": "Smoothbrain",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Smoothbrain/CreatureLevelAndLootControl/4.4.3/"
+        },
+        {
+            "name": "EpicLoot",
+            "package": "RandyKnapp",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/EpicLoot/0.8.7/"
+        },
+        {
+            "name": "SimpleRecycling",
+            "package": "abearcodes",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/abearcodes/SimpleRecycling/0.0.13/"
+        },
+        {
+            "name": "PlantEverything",
+            "package": "Advize",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Advize/PlantEverything/1.8.4/"
+        },
+        {
+            "name": "EquipmentAndQuickSlots",
+            "package": "RandyKnapp",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/2.0.14/"
+        },
+        {
+            "name": "TorchesEternal",
+            "package": "Xenofell",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Xenofell/TorchesEternal/0.2.0/"
+        },
+        {
+            "name": "NoRaid",
+            "package": "MystroDev",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/MystroDev/NoRaid/1.0.0/"
+        },
+        {
+            "name": "CraftingWithContainers",
+            "package": "abearcodes",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/abearcodes/CraftingWithContainers/1.0.14/"
+        },
+        {
+            "name": "TrashItems",
+            "package": "virtuaCode",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/virtuaCode/TrashItems/1.2.4/"
+        },
+        {
+            "name": "BiggerBoatMapExploreRadius",
+            "package": "nearbear",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/nearbear/BiggerBoatMapExploreRadius/1.0.3/"
+        },
+        {
+            "name": "MultiCraft",
+            "package": "MaxiMods",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/MaxiMods/MultiCraft/0.2.7/"
+        },
+        {
+            "name": "Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc",
+            "package": "rin_jugatla",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/rin_jugatla/Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc/1.6.2/"
+        },
+        {
+            "name": "Better_Trader",
+            "package": "Menthus",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Menthus/Better_Trader/2.0.4/"
+        },
+        {
+            "name": "Better_Accuracy",
+            "package": "Hedrymas",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Hedrymas/Better_Accuracy/1.0.3/"
+        },
+        {
+            "name": "ComfortTweaks",
+            "package": "Smoothbrain",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Smoothbrain/ComfortTweaks/2.7.5/"
+        },
+        {
+            "name": "ChaseMods_JumpAltersFallingDamage",
+            "package": "chase000",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/chase000/ChaseMods_JumpAltersFallingDamage/1.1.1/"
+        },
+        {
+            "name": "BeehiveUtilities",
+            "package": "Smallo",
+            "downloadUrl": "https://valheim.thunderstore.io/package/download/Smallo/BeehiveUtilities/1.1.0/"
+        }
+    ],
+    "configFilesUrl": "https://ovd.app:7226/public/config.zip",
+    "name": null,
+    "enabled": true
+}
