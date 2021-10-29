@@ -104,6 +104,16 @@
             "name": "Bigger_Chests",
             "package": "robclancy",
             "downloadUrl": ""
+        },
+        {
+            "name": "Clock",
+            "package": "Nexus",
+            "downloadUrl": ""
+        },
+        {
+            "name": "VChat",
+            "package": "ItsKaa",
+            "downloadUrl": ""
         }
     ],
     "configFilesUrl": "https://ovd.app:7226/public/config.zip",
