@@ -109,6 +109,11 @@
             "name": "Clock",
             "package": "Nexus",
             "downloadUrl": ""
+        },
+        {
+            "name": "DualWield",
+            "package": "Smoothbrain",
+            "downloadUrl": ""
         }
     ],
     "configFilesUrl": "https://ovd.app:7226/public/config.zip",
