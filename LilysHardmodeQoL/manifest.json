@@ -1,0 +1,107 @@
+{
+    "mods": [
+        {
+            "name": "AutoRepair",
+            "package": "Tekla",
+            "downloadUrl": ""
+        },
+        {
+            "name": "CreatureLevelAndLootControl",
+            "package": "Smoothbrain",
+            "downloadUrl": ""
+        },
+        {
+            "name": "EpicLoot",
+            "package": "RandyKnapp",
+            "downloadUrl": ""
+        },
+        {
+            "name": "SimpleRecycling",
+            "package": "abearcodes",
+            "downloadUrl": ""
+        },
+        {
+            "name": "PlantEverything",
+            "package": "Advize",
+            "downloadUrl": ""
+        },
+        {
+            "name": "EquipmentAndQuickSlots",
+            "package": "RandyKnapp",
+            "downloadUrl": ""
+        },
+        {
+            "name": "TorchesEternal",
+            "package": "Xenofell",
+            "downloadUrl": ""
+        },
+        {
+            "name": "CraftingWithContainers",
+            "package": "abearcodes",
+            "downloadUrl": ""
+        },
+        {
+            "name": "TrashItems",
+            "package": "virtuaCode",
+            "downloadUrl": ""
+        },
+        {
+            "name": "BiggerBoatMapExploreRadius",
+            "package": "nearbear",
+            "downloadUrl": ""
+        },
+        {
+            "name": "MultiCraft",
+            "package": "MaxiMods",
+            "downloadUrl": ""
+        },
+        {
+            "name": "Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc",
+            "package": "rin_jugatla",
+            "downloadUrl": ""
+        },
+        {
+            "name": "Better_Accuracy",
+            "package": "Hedrymas",
+            "downloadUrl": ""
+        },
+        {
+            "name": "ComfortTweaks",
+            "package": "Smoothbrain",
+            "downloadUrl": ""
+        },
+        {
+            "name": "ChaseMods_JumpAltersFallingDamage",
+            "package": "chase000",
+            "downloadUrl": ""
+        },
+        {
+            "name": "BeehiveUtilities",
+            "package": "Smallo",
+            "downloadUrl": ""
+        },
+        {
+            "name": "MoreSlots",
+            "package": "Fang86",
+            "downloadUrl": ""
+        },
+        {
+            "name": "Bigger_Chests",
+            "package": "robclancy",
+            "downloadUrl": ""
+        },
+        {
+            "name": "Clock",
+            "package": "Nexus",
+            "downloadUrl": ""
+        },
+        {
+            "name": "DualWield",
+            "package": "Smoothbrain",
+            "downloadUrl": ""
+        }
+    ],
+    "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/LilysHardmodeQoL/config.zip",
+    "name": null,
+    "enabled": true
+}

@@ -5,8 +5,12 @@
             "manifestUrl": ""
         },
         {
-            "name": "Lily's QoL",
+            "name": "Lily's QoL (easy)",
             "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/LilysQoL/manifest.json"
+        },
+        {
+            "name": "Lily's QoL (hard)",
+            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/LilysHardmodeQoL/manifest.json"
         },
         {
             "name": "Darkheim (Unsupported)",
