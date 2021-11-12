@@ -1,0 +1,20 @@
+{
+    "manifestOptions": [
+        {
+            "name": "Custom",
+            "manifestUrl": ""
+        },
+        {
+            "name": "Lily's QoL",
+            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/LilysQoL/manifest.json"
+        },
+        {
+            "name": "Darkheim (Unsupported)",
+            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/Darkheim/manifest_v1.1.0.json"
+        },
+        {
+            "name": "Darkheim MP (Unsupported)",
+            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/DarkheimMP/manifest.json"
+        }
+    ]
+}
