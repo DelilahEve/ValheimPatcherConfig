@@ -99,6 +99,11 @@
             "name": "DualWield",
             "package": "Smoothbrain",
             "downloadUrl": ""
+        },
+        {
+            "name": "FarmGrid",
+            "package": "Nexus",
+            "downloadUrl": ""
         }
     ],
     "configFilesUrl": "https://github.com/DelilahEve/ValheimPatcherConfig/raw/main/LilysHardmodeQoL/config.zip",

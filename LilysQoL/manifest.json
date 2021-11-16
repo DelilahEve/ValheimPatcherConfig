@@ -114,6 +114,11 @@
             "name": "DualWield",
             "package": "Smoothbrain",
             "downloadUrl": ""
+        },
+        {
+            "name": "FarmGrid",
+            "package": "Nexus",
+            "downloadUrl": ""
         }
     ],
     "configFilesUrl": "https://ovd.app:7226/public/config.zip",
