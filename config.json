@@ -13,8 +13,8 @@
             "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/LilysHardmodeQoL/manifest.json"
         },
         {
-            "name": "Darkheim (Unsupported)",
-            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/Darkheim/manifest_v1.1.0.json"
+            "name": "Darkheim 3.0",
+            "manifestUrl": "https://raw.githubusercontent.com/DelilahEve/ValheimPatcherConfig/main/Darkheim/manifest.json"
         },
         {
             "name": "Darkheim MP (Unsupported)",
